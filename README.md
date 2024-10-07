@@ -30,7 +30,7 @@
 
 ## Como se usa
 
-Para clonar esta repositorio, vas a necesitar [Git](https://git-scm.com) y [Python](https://www.python.org/downloads/) (que viene con [pip](https://pypi.org/project/pip/)) instalados en tu PC
+Para clonar esta repositorio, vas a necesitar [Git](https://git-scm.com) y [Rust](https://www.rust-lang.org/es)
 
 ```bash
 # Clone el repositorio.
