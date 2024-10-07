@@ -1,2 +1,52 @@
-# rust-calc
-Simply calculator made in rust.
+
+<h1 align="center">
+  <br>
+  <a href="https://github.com/Dou-Community-S-A"><img src="https://imgs.search.brave.com/zNGTLjv34ZVl1synjAYdqqrM0komb4M7-mHz_vRXZ-M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3J1c3Q4/MjQ0LmpwZw" alt="Dou-Community" width="200"></a>
+  <br>
+  Calculadora en Rust.
+  <br>
+</h1>
+
+<h4 align="center">Calculadora simple en rust.</h4>
+
+<p align="center">
+  <a href="#Funciones">Funciones</a> •
+  <a href="#Como se usa">Como se usa</a> •
+  <a href="#Descargar">Descargar</a> •
+  <a href="#Creditos">Creditos</a> 
+</p>
+
+
+## Funciones
+
+* Librerias
+  - std i/o
+  - std process
+* Acciones
+  - Sumar
+  - Restar
+  - Multiplicar
+  - Dividir
+
+## Como se usa
+
+Para clonar esta repositorio, vas a necesitar [Git](https://git-scm.com) y [Python](https://www.python.org/downloads/) (que viene con [pip](https://pypi.org/project/pip/)) instalados en tu PC
+
+```bash
+# Clone el repositorio.
+$ git clone https://github.com/matiasdante/rust-calc.git
+
+# Ir al repo
+$ cd rust-calc
+
+# Construir  
+$ cargo build
+
+# Iniciar la app
+$ cargo run
+```
+
+
+## Creditos
+
+* [matutEv](https://github.com/matiasdante)
